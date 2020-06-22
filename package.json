@@ -1,0 +1,8 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AdilsonVicente/primeiro-projeto-node.git",
+  "author": "Adilson Vicente dos Santos <adilson_mumu@hotmail.com>",
+  "license": "MIT"
+}
